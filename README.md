@@ -6,10 +6,10 @@
 
 
 - ⚡ Fun fact **Beyond coding, I'm fascinated by AI image generation and preserving traditional cultural aesthetics through digital art.**
- <p align="center">
+- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" />
 </p>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/yasadidias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yasadidias" height="30" width="40" /></a>
