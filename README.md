@@ -6,8 +6,8 @@
 
 
 - ⚡ Fun fact **Beyond coding, I'm fascinated by AI image generation and preserving traditional cultural aesthetics through digital art.**
-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Software+Engineering+Student;Passionate+Full+Stack+Developer;Always+Learning+New+Tech!" />
 </p>
  
 <h3 align="left">Connect with me:</h3>
