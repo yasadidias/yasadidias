@@ -2,7 +2,7 @@
 
 ### Software Engineering Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasadidias&label=Profile views&color=0e75b6&style=flat" alt="yasadidias" /> </p>
+
 
 - ⚡ Fun fact **Beyond coding, I'm fascinated by AI image generation and preserving traditional cultural aesthetics through digital art.**
 
