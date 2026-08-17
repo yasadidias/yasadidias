@@ -1,3 +1,4 @@
+![Banner](yasadidias-banner.png)
 # Hi 👋, I'm Yasadi Dias
 
 ### Software Engineering Enthusiast
