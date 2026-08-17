@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner.png.png)
 # Hi 👋, I'm Yasadi Dias
 
 ### Software Engineering Enthusiast
